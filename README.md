@@ -2,7 +2,7 @@
 
 # 🎵 Vibe Zone
 
-*Where you listen to what you feel!*
+*Where you listen to what you feel!* - https://vibe-zone.de/
 
 Vibe Zone is a music recommendation system that helps you discover songs similar to your favorites. Built with machine learning and integrated with Spotify and YouTube, it provides an elegant interface to explore music based on lyrical content similarity.
 
