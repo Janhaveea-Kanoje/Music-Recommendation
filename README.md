@@ -100,22 +100,6 @@ streamlit run app.py
 
 The app will open in your default browser at http://localhost:8501
 
-## 📁 Project Structure
-
-
-vibe-zone/
-│
-├── app.py                      # Main Streamlit application
-├── spotify_api.py              # Spotify API integration
-├── utils.py                    # Utility functions (YouTube, formatting)
-├── config.py                   # Configuration settings
-├── requirements.txt            # Python dependencies
-├── Model Training.ipynb        # Jupyter notebook for model training
-├── df.pkl                      # Song dataset (5,000 songs)
-├── similarity.pkl              # Similarity matrix
-└── README.md                   # This file
-
-
 ## 🧠 How It Works
 
 1. *Data Processing*: Song lyrics are preprocessed using tokenization and stemming (Porter Stemmer)
