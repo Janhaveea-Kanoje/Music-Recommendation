@@ -100,6 +100,10 @@ streamlit run app.py
 
 The app will open in your default browser at http://localhost:8501
 
+## 📁 Project Structure
+<img width="628" height="313" alt="image" src="https://github.com/user-attachments/assets/46aecaac-7948-4511-9d1c-c14da26ab9b4" />
+
+
 ## 🧠 How It Works
 
 1. *Data Processing*: Song lyrics are preprocessed using tokenization and stemming (Porter Stemmer)
